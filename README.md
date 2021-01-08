@@ -33,7 +33,7 @@
   - Perks & Items
   - Abilities
   - Enemies
-  - Status bar
+  - Status (Buff & Debuff)
   - UI System
 - Optimized CPU & memory usage
 - Designed & implemented the UI
