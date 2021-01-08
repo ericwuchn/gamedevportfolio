@@ -25,5 +25,5 @@
 -	Fine-tuned graphics<br><br>
 
 ## Casual Games
-(screenshots/avoid1.png)
+![Alt text](screenshots/avoid1.png)
 
