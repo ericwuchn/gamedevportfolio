@@ -25,7 +25,8 @@
 -	Fine-tuned graphics<br><br>
 
 **Roguelite Shooter Demo**<br><br>
-![Alt text](screenshots/rogueshooter1.png)<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br>
+(Click to play the video)
 - Game Maker Studio 2 / GML
 - A risk of rain style game in top down perspective
 - A fully-featured expandable and modifiable game system
