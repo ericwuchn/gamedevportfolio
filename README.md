@@ -27,7 +27,7 @@
 **Roguelite Shooter Demo**<br><br>
 ![Alt text](screenshots/rogueshooter1.png)<br>
 - Game Maker Studio 2 / GML
-- A risk of rain mockup in top down perspective
+- A risk of rain style game in top down perspective
 - A fully-featured expandable and modifiable game system
   - Projectiles
   - Perks & Items
@@ -37,6 +37,7 @@
   - UI System
 - Optimized CPU & memory usage
 - MMO-style message system
+- Customizable damage number system referenced from Maple Story
   
 <br><br>
 ## Casual Games
