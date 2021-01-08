@@ -36,6 +36,7 @@
   - Status bar
   - UI System
 - Optimized CPU & memory usage
+- Designed & implemented the UI
 - MMO-style message system
 - Customizable damage number system referenced from Maple Story
   
