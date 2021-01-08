@@ -11,7 +11,7 @@
 -	Fine-tuned graphics and fluid gameplay<br><br>
 
 **1vs100000000 Demo Video Demonstration**<br><br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7HE9F48SbxA/0.jpg)](https://www.youtube.com/watch?v=7HE9F48SbxA)<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br>
 (Click to play the video)
 -	Unity / C#
 -	An arcade zombie shooter in development
