@@ -25,7 +25,7 @@
 -	Fine-tuned graphics<br><br>
 
 ## Casual Games
-**A.VOID**
-https://jiayuewu.itch.io/avoid
+**A.VOID**<br>
+https://jiayuewu.itch.io/avoid<br>
 ![Alt text](screenshots/avoid1.png) ![Alt text](screenshots/avoid2.png) ![Alt text](screenshots/avoid3.png)
 
