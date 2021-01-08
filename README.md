@@ -24,6 +24,19 @@
 -	Designed & implemented the UI system
 -	Fine-tuned graphics<br><br>
 
+**Roguelite Shooter Demo**<br><br>
+![Alt text](screenshots/rogueshooter1.png)<br>
+- Game Maker Studio 2 / GML
+- A risk of rain mockup in top down perspective
+- A fully-featured expandable and modifiable game system
+  - Projectiles
+  - Perks & Items
+  - Abilities
+  - Enemies
+  - Status bar
+  - UI System
+  
+<br><br>
 ## Casual Games
 **A.VOID**<br>
 https://jiayuewu.itch.io/avoid<br>
