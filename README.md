@@ -39,7 +39,17 @@
 - Designed & implemented the UI
 - MMO-style message system
 - Customizable damage number system referenced from Maple Story
-  
+<br><br>
+
+**ultraviolet**<br><br>
+![Alt text](screenshots/ultraviolet1.png)<br>
+- RPG Maker MV / JavaScript
+- A pixel & cyberpunk short top-down shooter game
+- Made in a 6-people team, I am the main programmer and level designer
+- One of the only shooter game made in RPG Maker
+- Scripted the gameplay, weapon system, and enemy system
+
+
 <br><br>
 ## Casual Games
 **A.VOID**<br>
