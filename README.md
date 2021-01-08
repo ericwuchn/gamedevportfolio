@@ -35,6 +35,8 @@
   - Enemies
   - Status bar
   - UI System
+- Optimized CPU & memory usage
+- MMO-style message system
   
 <br><br>
 ## Casual Games
