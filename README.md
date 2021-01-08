@@ -48,6 +48,7 @@
 - Made in a 6-people team, I am the main programmer and level designer
 - One of the only shooter games made in RPG Maker
 - Scripted the gameplay, weapon system, and enemy system
+- Designed & implemented the UI
 
 
 <br><br>
