@@ -22,4 +22,8 @@
 -	Supply airdrop system
 -	Optimized gameplay and audio system
 -	Designed & implemented the UI system
--	Fine-tuned graphics
+-	Fine-tuned graphics<br><br>
+
+## Casual Games
+(screenshots/avoid1.png)
+
