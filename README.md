@@ -1,6 +1,6 @@
 # My Game Development Portfolio
 
-**Wangan Racing Demo Video Demonstration** (Click to play the video)<br><br>
+**Wangan Racing Demo Video Demonstration** (Click snapshot to play the video)<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br>
 
 
@@ -10,9 +10,9 @@
 -	Designed & Implemented the UI system
 -	Fine-tuned graphics and fluid gameplay<br><br>
 
-**1vs100000000 Demo Video Demonstration**<br><br>
+**1vs100000000 Demo Video Demonstration** (Click snapshot to play the video)<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br>
-(Click to play the video)
+
 -	Unity / C#
 -	An arcade zombie shooter in development
 -	Scripted the game with existing models
@@ -24,9 +24,9 @@
 -	Designed & implemented the UI system
 -	Fine-tuned graphics<br><br>
 
-**Roguelite Shooter Demo**<br><br>
+**Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br>
-(Click to play the video)
+
 - Game Maker Studio 2 / GML
 - A risk of rain style game in top down perspective
 - A fully-featured expandable and modifiable game system
@@ -42,9 +42,8 @@
 - Customizable damage number system referenced from Maple Story
 <br><br>
 
-**ultraviolet**<br><br>
+**ultraviolet Demo Video Demonstration** (Click snapshot to play the video)<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cnKpbyFCbyo/0.jpg)](https://www.youtube.com/watch?v=cnKpbyFCbyo)<br>
-(Click to play the video)
 - RPG Maker MV / JavaScript
 - A pixel & cyberpunk short top-down shooter game
 - Made in a 6-people team, I am the main programmer and level designer
