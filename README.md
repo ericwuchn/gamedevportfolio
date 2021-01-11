@@ -29,7 +29,7 @@
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br>
 - Unity / C#
 - A multiplayer top-down shooter utilizing UNET
-- A school project made in a 6 people team, I'm the programmer of the enemy part
+- A school project made in a 6 people team, I'm the programmer of the enemies
 - Programmed the behaviors of 4 types of slimes ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)
   - normal slime
   - poison slime
