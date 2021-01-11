@@ -25,7 +25,7 @@
 -	Fine-tuned graphics<br><br>
 
 **Slime Universe** <br><br>
-[![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)]
+![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
 
 **Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br>
