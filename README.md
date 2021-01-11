@@ -34,8 +34,8 @@
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br>
   - normal slime
   - poison slime
-  - shield slime
   - electric slime
+  - shield slime
   <br><br>
 
 **Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)<br><br>
