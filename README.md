@@ -60,7 +60,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cnKpbyFCbyo/0.jpg)](https://www.youtube.com/watch?v=cnKpbyFCbyo)<br>
 - RPG Maker MV / JavaScript
 - A pixel & cyberpunk short top-down shooter game
-- Made in a 6-people team, I am the main programmer and level designer
+- A school project made in a 6-people team, I am the main programmer and level designer
 - One of the only shooter games made in RPG Maker
 - Scripted the gameplay, weapon system, and enemy system
 - Designed & implemented the UI
