@@ -26,6 +26,15 @@
 
 **Slime Universe** <br><br>
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
+![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br>
+- Unity / C#
+- A multiplayer top-down shooter utilizing UNET
+- A school project made in a 6 people team, I'm the programmer
+- Programmed the behaviors of 4 types of slimes ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)
+  - normal slime
+  - poison slime
+  - shield slime
+  - electric slime
 
 **Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br>
