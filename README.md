@@ -6,7 +6,7 @@
 
 -	Unity / C#
 -	An arcade racing project
--	Scripted the game with existing models
+-	Engineered the game with existing models
 -	Designed & Implemented the UI system
 -	Fine-tuned graphics and fluid gameplay<br><br>
 
@@ -15,7 +15,7 @@
 
 -	Unity / C#
 -	An arcade zombie shooter in development
--	Scripted the game with existing models
+-	Engineered the game with existing models
 -	Level design with existing models
 -	Expandable weapon & enemy system 
 -	Expandable perk & pickup system
@@ -43,7 +43,7 @@
 
 - Game Maker Studio 2 / GML
 - A risk of rain style game in top down perspective
-- A fully-featured expandable and modifiable game system
+- Engineered a fully-featured expandable and modifiable game system
   - Projectiles
   - Perks & Items
   - Abilities
