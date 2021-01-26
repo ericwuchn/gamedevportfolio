@@ -1,8 +1,17 @@
 # My Game Development Portfolio
 
+**SUSHIDO**<br><br>
+[![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br>
+
+-	Unity / C#
+-	A high quality mobile casual game in development
+-	Engineered the game with existing models
+-	Designed & Implemented the UI with fluid animations
+- Optimized performance, runs well on low-tier phones
+<br><br>
+
 **Wangan Racing Demo Video Demonstration** (Click snapshot to play the video)<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br>
-
 
 -	Unity / C#
 -	An arcade racing project
