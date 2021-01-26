@@ -1,7 +1,7 @@
 # My Game Development Portfolio
 
 **SUSHIDO**<br><br>
-[![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br>
+![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br>
 
 -	Unity / C#
 -	A high quality mobile casual game in development
