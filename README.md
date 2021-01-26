@@ -1,7 +1,7 @@
 # My Game Development Portfolio
 
 
-![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br>
+![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br><br>
 **SUSHIDO**
 -	Unity / C#
 -	A high quality casual mobile game in development
@@ -11,7 +11,7 @@
 <br><br>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br><br>
 **Wangan Racing Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
 -	An arcade racing project
@@ -20,7 +20,7 @@
 -	Fine-tuned graphics and fluid gameplay<br><br>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br><br>
 **1vs100000000 Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
 -	An arcade zombie shooter in development
@@ -35,7 +35,7 @@
 
 
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
-![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br>
+![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br><br>
 **Slime Universe**
 - Unity / C#
 - A multiplayer top-down shooter utilizing UNET
@@ -49,7 +49,7 @@
   <br><br>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br><br>
 **Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)
 - Game Maker Studio 2 / GML
 - A risk of rain style game in top down perspective
