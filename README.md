@@ -1,8 +1,8 @@
 # My Game Development Portfolio
 
-**SUSHIDO**<br><br>
-![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br>
 
+![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br>
+**SUSHIDO**
 -	Unity / C#
 -	A high quality casual mobile game in development
 -	Engineered the game with existing models
@@ -10,18 +10,18 @@
 - Optimized performance, runs well on low-tier phones
 <br><br>
 
-**Wangan Racing Demo Video Demonstration** (Click snapshot to play the video)<br><br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br>
+**Wangan Racing Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
 -	An arcade racing project
 -	Engineered the game with existing models
 -	Designed & Implemented the UI system
 -	Fine-tuned graphics and fluid gameplay<br><br>
 
-**1vs100000000 Demo Video Demonstration** (Click snapshot to play the video)<br><br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br>
+**1vs100000000 Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
 -	An arcade zombie shooter in development
 -	Engineered the game with existing models
@@ -33,9 +33,10 @@
 -	Designed & implemented the UI system
 -	Fine-tuned graphics<br><br>
 
-**Slime Universe** <br><br>
+
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br>
+**Slime Universe**
 - Unity / C#
 - A multiplayer top-down shooter utilizing UNET
 - A school project made in a 6 people team, I'm the programmer of the enemies
@@ -47,9 +48,9 @@
   - shield slime
   <br><br>
 
-**Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)<br><br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br>
+**Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)
 - Game Maker Studio 2 / GML
 - A risk of rain style game in top down perspective
 - Engineered a fully-featured expandable and modifiable game system
@@ -65,8 +66,9 @@
 - Customizable damage number system referenced from Maple Story
 <br><br>
 
-**ultraviolet Demo Video Demonstration** (Click snapshot to play the video)<br><br>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cnKpbyFCbyo/0.jpg)](https://www.youtube.com/watch?v=cnKpbyFCbyo)<br>
+**ultraviolet Demo Video Demonstration** (Click snapshot to play the video)
 - RPG Maker MV / JavaScript
 - A pixel & cyberpunk short top-down shooter game
 - A school project made in a 6-people team, I am the main programmer and level designer
