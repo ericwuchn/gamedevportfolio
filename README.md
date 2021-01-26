@@ -4,7 +4,7 @@
 ![IMAGE ALT TEXT HERE](screenshots/sushido1.png)<br>
 
 -	Unity / C#
--	A high quality mobile casual game in development
+-	A high quality casual mobile game in development
 -	Engineered the game with existing models
 -	Designed & Implemented the UI with fluid animations
 - Optimized performance, runs well on low-tier phones
