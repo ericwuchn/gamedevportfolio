@@ -78,7 +78,7 @@
 
 
 <br><br>
-## Casual Games
+## Mini Games
 **A.VOID**<br>
 https://jiayuewu.itch.io/avoid<br>
 ![Alt text](screenshots/avoid1.png) ![Alt text](screenshots/avoid2.png) ![Alt text](screenshots/avoid3.png) <br><br>
