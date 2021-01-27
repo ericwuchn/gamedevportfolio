@@ -6,6 +6,8 @@
 -	Unity/C#
 -	A high quality casual mobile game in development
 -	Engineered the game with existing models
+- Utilizes players' gestures for controls
+- QTE & Combo system
 -	Designed & Implemented the UI with fluid animations
 - Optimized performance, runs well on low-tier phones
 <br><br>
