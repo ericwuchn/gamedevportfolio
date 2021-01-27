@@ -44,10 +44,10 @@
 - A school project made in a 6 people team, I'm the programmer of the enemies
 - Programmed the behaviors of 4 types of slimes<br>
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br>
-  - normal slime
-  - poison slime
-  - electric slime
-  - shield slime
+  - normal slime (has a dash action)
+  - poison slime (leaves poison trail behind)
+  - electric slime (stuns player)
+  - shield slime (blocks projectiles)
   <br><br>
 
 
