@@ -45,7 +45,7 @@
 - Programmed the behaviors of 4 types of slimes<br>
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br>
   - normal slime (has a dash action)
-  - poison slime (leaves poison trail behind)
+  - poison slime (leaves a poison trail behind)
   - electric slime (stuns player)
   - shield slime (blocks projectiles)
   <br><br>
