@@ -67,7 +67,7 @@
 <br><br>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cnKpbyFCbyo/0.jpg)](https://www.youtube.com/watch?v=cnKpbyFCbyo)<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cnKpbyFCbyo/0.jpg)](https://www.youtube.com/watch?v=cnKpbyFCbyo)<br><br>
 **ultraviolet Demo Video Demonstration** (Click snapshot to play the video)
 - RPG Maker MV/JavaScript
 - A pixel & cyberpunk short top-down shooter game
