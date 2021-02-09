@@ -75,7 +75,7 @@
 - A pixel & cyberpunk short top-down shooter game
 - A school project made in a 6-people team, I am the main programmer and level designer
 - One of the only shooter games made in RPG Maker
-- Scripted the gameplay, weapon system, and enemy system
+- Scripted the gameplay, character abilities,weapon system, and enemy system
 - Designed & implemented the UI
 
 
