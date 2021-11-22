@@ -48,7 +48,7 @@
 **Slime Universe**
 - Unity / C#
 - A multiplayer top-down shooter utilizing UNET
-- A school project made in a 6 people team, I'm the programmer of the enemies
+- A school project made by a 6 people team, I'm the programmer of the enemies
 - Programmed the behaviors of 4 types of slimes<br><br>
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br><br>
   - normal slime (has a dash action)
@@ -80,7 +80,7 @@
 **ultraviolet Demo Video Demonstration** (Click snapshot to play the video)
 - RPG Maker MV / JavaScript
 - A pixel & cyberpunk short top-down shooter game
-- A school project made by a 6-people team, I am the main programmer and level designer
+- A school project made by a 6 people team, I am the main programmer and level designer
 - Scripted the gameplay, character abilities, weapon system, and enemy system
 - UI design and implementation
 
