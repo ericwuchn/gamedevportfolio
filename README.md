@@ -19,7 +19,7 @@
 -	An arcade racing project
 -	Engineered the game with existing art assets
 -	UI design and implementation
--	Fine-tuned graphics and fluid gameplay<br><br>
+-	Fine-tuned graphics and fluid gameplay<br><br><br><br>
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br><br>
@@ -33,7 +33,7 @@
 -	Supply airdrop system
 -	Optimized gameplay and audio system
 -	UI design and implementation
--	Fine-tuned graphics<br><br>
+-	Fine-tuned graphics<br><br><br><br>
 
 
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
@@ -48,7 +48,7 @@
   - poison slime (leaves a poison trail behind)
   - electric slime (stuns player)
   - shield slime (blocks projectiles with a shield)
-  <br><br>
+  <br><br><br><br>
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br><br>
@@ -66,7 +66,7 @@
 - UI design and implementation
 - MMO-style message system
 - Customizable damage number system referenced from Maple Story
-<br><br>
+<br><br><br><br>
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cnKpbyFCbyo/0.jpg)](https://www.youtube.com/watch?v=cnKpbyFCbyo)<br><br>
@@ -78,15 +78,15 @@
 - UI design and implementation
 
 
-<br><br>
+<br><br><br><br>
 ## Mini Games (These games were made with the Construct 2 Engine)
 **A.VOID**<br>
 https://jiayuewu.itch.io/avoid<br>
-![Alt text](screenshots/avoid1.png) ![Alt text](screenshots/avoid2.png) ![Alt text](screenshots/avoid3.png) <br><br>
+![Alt text](screenshots/avoid1.png) ![Alt text](screenshots/avoid2.png) ![Alt text](screenshots/avoid3.png) <br><br><br><br>
 
 **Valentine Mini Game**<br>
 https://jiayuewu.itch.io/valentine2017<br>
-![Alt text](screenshots/valentine1.png) ![Alt text](screenshots/valentine2.png) ![Alt text](screenshots/valentine3.png) <br><br>
+![Alt text](screenshots/valentine1.png) ![Alt text](screenshots/valentine2.png) ![Alt text](screenshots/valentine3.png) <br><br><br><br>
 
 **Tryo**<br>
 ![Alt text](screenshots/tryo1.png) ![Alt text](screenshots/tryo2.png) ![Alt text](screenshots/tryo3.png) ![Alt text](screenshots/tryo4.png)
