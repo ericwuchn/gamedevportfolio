@@ -16,7 +16,7 @@
 **Hoag's End** (Click snapshot to go to the itch.io page)
 - Unity / C#
 - My capstone project at Sheridan College with 6 other team members
-- The game is a multiplayer RTS game that took place in the Galaxy
+- The game is a multiplayer RTS game that takes place in the Galaxy
 - My work included game design and UI design / implementation
 <br><br><br><br>
 
