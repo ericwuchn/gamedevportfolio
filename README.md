@@ -7,7 +7,7 @@
 -	A casual mobile game in development
 -	Engineered the game with existing art assets
 - Utilizes players' gestures for controls
-- QTE & Combo system
+- Combo system
 -	Designed & Implemented the UI with fluid animations
 - Optimized performance, runs well on low-tier phones
 <br><br><br><br>
