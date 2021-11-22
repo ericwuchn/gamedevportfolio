@@ -13,7 +13,7 @@
 <br><br><br><br>
 
 [![IMAGE ALT TEXT HERE](https://img.itch.zone/aW1hZ2UvOTk4NjkwLzY3NjQ3OTQuanBn/original/gyyGJL.jpg)](https://sheridanspacewar.itch.io/hoags-end)<br><br>
-**Hoag's End**
+**Hoag's End** (Click snapshot to go to the itch.io page)
 - Unity / C#
 - My capstone project at Sheridan College with 5 other team members
 - The game is a multiplayer RTS game that took place in the Galaxy
