@@ -105,8 +105,8 @@ https://github.com/jiayuewuchn/godslayer350
 This is a StarCraft II Terran AI created by me and Yu Zhu in the CMPUT350 course at University of Alberta.
 This AI focuses on against Zerg. It can win the built-in Zerg AI with "Hard" difficulty. <br>
 
-- Expansion Strategy
+- Expansion Strategy <br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y-Qc1SYb8ig/0.jpg)](https://www.youtube.com/watch?v=y-Qc1SYb8ig)<br><br>
 
-- Against Zerg AI
+- Against Zerg AI <br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b9Ms4F-PmS0/0.jpg)](https://www.youtube.com/watch?v=b9Ms4F-PmS0)<br><br>
