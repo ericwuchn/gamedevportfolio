@@ -1,6 +1,6 @@
 # My Game Development Portfolio
 
-
+## Game Projects
 [![IMAGE ALT TEXT HERE](screenshots/sushido1.png)](https://youtu.be/BLjaV7WUXTg)<br><br>
 **Sushido Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
@@ -97,3 +97,16 @@ https://jiayuewu.itch.io/valentine2017<br>
 
 **Tryo**<br>
 ![Alt text](screenshots/tryo1.png) ![Alt text](screenshots/tryo2.png) ![Alt text](screenshots/tryo3.png) ![Alt text](screenshots/tryo4.png)
+
+## AI
+**GodSlayer SC2 Bot**<br>
+https://github.com/jiayuewuchn/godslayer350
+<br>
+This is a StarCraft II Terran AI created by me and Yu Zhu in the CMPUT350 course at University of Alberta.
+This AI focuses on against Zerg. It can win the built-in Zerg AI with "Hard" difficulty. <br>
+
+- Expansion Strategy
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y-Qc1SYb8ig/0.jpg)](https://www.youtube.com/watch?v=y-Qc1SYb8ig)<br><br>
+
+- Against Zerg AI
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b9Ms4F-PmS0/0.jpg)](https://www.youtube.com/watch?v=b9Ms4F-PmS0)<br><br>
