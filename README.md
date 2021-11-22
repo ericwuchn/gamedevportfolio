@@ -82,8 +82,6 @@
   - shield slime (blocks projectiles with a shield)
   <br><br><br><br>
 
-
-<br><br><br><br>
 ## Mini Games (These games were made with the Construct 2 Engine)
 **A.VOID**<br>
 https://jiayuewu.itch.io/avoid<br>
