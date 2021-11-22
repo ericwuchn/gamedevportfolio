@@ -2,7 +2,7 @@
 
 
 [![IMAGE ALT TEXT HERE](screenshots/sushido1.png)](https://youtu.be/BLjaV7WUXTg)<br><br>
-**SUSHIDO** (Click snapshot to play the video)
+**Sushido Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
 -	A casual mobile game in development
 -	Engineered the game with existing art assets
