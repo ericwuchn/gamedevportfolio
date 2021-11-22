@@ -25,7 +25,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PpnX-FK6KfM/0.jpg)](https://www.youtube.com/watch?v=PpnX-FK6KfM)<br><br>
 **1vs100000000 Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
--	An arcade zombie shooter in development
+-	An arcade zombie shooter
 -	Engineered the game with existing art assets
 -	Level design
 -	Expandable weapon & enemy system 
