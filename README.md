@@ -2,10 +2,10 @@
 
 
 [![IMAGE ALT TEXT HERE](screenshots/sushido1.png)](https://youtu.be/BLjaV7WUXTg)<br><br>
-**SUSHIDO**
+**SUSHIDO** (Click snapshot to play the video)
 -	Unity / C#
--	A high quality casual mobile game in development
--	Engineered the game with existing models
+-	A casual mobile game in development
+-	Engineered the game with existing art assets
 - Utilizes players' gestures for controls
 - QTE & Combo system
 -	Designed & Implemented the UI with fluid animations
@@ -17,8 +17,8 @@
 **Wangan Racing Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
 -	An arcade racing project
--	Engineered the game with existing models
--	Designed & Implemented the UI system
+-	Engineered the game with existing art assets
+-	UI design and implementation
 -	Fine-tuned graphics and fluid gameplay<br><br>
 
 
@@ -26,13 +26,13 @@
 **1vs100000000 Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
 -	An arcade zombie shooter in development
--	Engineered the game with existing models
--	Level design with existing models
+-	Engineered the game with existing art assets
+-	Level design
 -	Expandable weapon & enemy system 
 -	Expandable perk & pickup system
 -	Supply airdrop system
 -	Optimized gameplay and audio system
--	Designed & implemented the UI system
+-	UI design and implementation
 -	Fine-tuned graphics<br><br>
 
 
@@ -47,7 +47,7 @@
   - normal slime (has a dash action)
   - poison slime (leaves a poison trail behind)
   - electric slime (stuns player)
-  - shield slime (blocks projectiles)
+  - shield slime (blocks projectiles with a shield)
   <br><br>
 
 
@@ -55,7 +55,7 @@
 **Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)
 - Game Maker Studio 2 / GML
 - A risk of rain style game in top down perspective
-- Engineered a fully-featured expandable and modifiable game system
+- Engineered an expandable game system
   - Projectiles
   - Perks & Items
   - Abilities
@@ -63,7 +63,7 @@
   - Status (Buff & Debuff)
   - UI System
 - Optimized CPU & memory usage
-- Designed & implemented the UI
+- UI design and implementation
 - MMO-style message system
 - Customizable damage number system referenced from Maple Story
 <br><br>
@@ -74,13 +74,12 @@
 - RPG Maker MV / JavaScript
 - A pixel & cyberpunk short top-down shooter game
 - A school project made in a 6-people team, I am the main programmer and level designer
-- One of the only shooter games made in RPG Maker
 - Scripted the gameplay, character abilities, weapon system, and enemy system
-- Designed & implemented the UI
+- UI design and implementation
 
 
 <br><br>
-## Mini Games
+## Mini Games (These games were made with the Construct 2 Engine)
 **A.VOID**<br>
 https://jiayuewu.itch.io/avoid<br>
 ![Alt text](screenshots/avoid1.png) ![Alt text](screenshots/avoid2.png) ![Alt text](screenshots/avoid3.png) <br><br>
