@@ -50,7 +50,7 @@
 - A multiplayer top-down shooter utilizing UNET
 - A school project made in a 6 people team, I'm the programmer of the enemies
 - Programmed the behaviors of 4 types of slimes<br>
-![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br>
+![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br><br>
   - normal slime (has a dash action)
   - poison slime (leaves a poison trail behind)
   - electric slime (stuns player)
@@ -105,8 +105,8 @@ https://github.com/jiayuewuchn/godslayer350
 This is a StarCraft II Terran AI created by me and Yu Zhu in the CMPUT350 course at University of Alberta.
 This AI focuses on against Zerg. It can win the built-in Zerg AI with "Hard" difficulty. <br>
 
-- Expansion Strategy <br>
+- Expansion Strategy <br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y-Qc1SYb8ig/0.jpg)](https://www.youtube.com/watch?v=y-Qc1SYb8ig)<br><br>
 
-- Against Zerg AI <br>
+- Against Zerg AI <br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b9Ms4F-PmS0/0.jpg)](https://www.youtube.com/watch?v=b9Ms4F-PmS0)<br><br>
