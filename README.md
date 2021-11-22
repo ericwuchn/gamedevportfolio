@@ -42,22 +42,6 @@
 -	UI design and implementation
 -	Fine-tuned graphics<br><br><br><br>
 
-
-![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
-![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br><br>
-**Slime Universe**
-- Unity / C#
-- A multiplayer top-down shooter utilizing UNET
-- A school project made by a 6 people team, I'm the programmer of the enemies
-- Programmed the behaviors of 4 types of slimes<br><br>
-![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br><br>
-  - normal slime (has a dash action)
-  - poison slime (leaves a poison trail behind)
-  - electric slime (stuns player)
-  - shield slime (blocks projectiles with a shield)
-  <br><br><br><br>
-
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br><br>
 **Roguelite Shooter Demo Video Demonstration** (Click snapshot to play the video)
 - Game Maker Studio 2 / GML
@@ -82,7 +66,21 @@
 - A pixel & cyberpunk short top-down shooter game
 - A school project made by a 6 people team, I am the main programmer and level designer
 - Scripted the gameplay, character abilities, weapon system, and enemy system
-- UI design and implementation
+- UI design and implementation<br><br><br><br>
+
+![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
+![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br><br>
+**Slime Universe**
+- Unity / C#
+- A multiplayer top-down shooter utilizing UNET
+- A school project made by a 6 people team, I'm the programmer of the enemies
+- Programmed the behaviors of 4 types of slimes<br><br>
+![IMAGE ALT TEXT HERE](screenshots/slimeuniverse3.png)<br><br>
+  - normal slime (has a dash action)
+  - poison slime (leaves a poison trail behind)
+  - electric slime (stuns player)
+  - shield slime (blocks projectiles with a shield)
+  <br><br><br><br>
 
 
 <br><br><br><br>
