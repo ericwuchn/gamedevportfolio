@@ -12,13 +12,13 @@
 - Optimized performance, runs well on low-tier phones
 <br><br><br><br>
 
-[![IMAGE ALT TEXT HERE](https://img.itch.zone/aW1nLzY3NjUwMTYuanBn/original/zhMJOV.jpg)](https://sheridanspacewar.itch.io/hoags-end)<br><br>
+[![IMAGE ALT TEXT HERE](https://img.itch.zone/aW1hZ2UvOTk4NjkwLzY3NjQ3OTQuanBn/original/gyyGJL.jpg)](https://sheridanspacewar.itch.io/hoags-end)<br><br>
 **Hoag's End**
 - Unity / C#
 - My capstone project at Sheridan College with 5 other team members
 - The game is a multiplayer RTS game that took place in the Galaxy
 - My work included game design and UI design / implementation
-
+<br><br><br><br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br><br>
 **Wangan Racing Demo Video Demonstration** (Click snapshot to play the video)
