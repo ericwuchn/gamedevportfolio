@@ -10,7 +10,7 @@
 - QTE & Combo system
 -	Designed & Implemented the UI with fluid animations
 - Optimized performance, runs well on low-tier phones
-<br><br>
+<br><br><br><br>
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br><br>
