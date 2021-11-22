@@ -1,6 +1,6 @@
 # My Game Development Portfolio
 
-## Game Projects
+## Recent Game Projects
 [![IMAGE ALT TEXT HERE](screenshots/sushido1.png)](https://youtu.be/BLjaV7WUXTg)<br><br>
 **Sushido Demo Video Demonstration** (Click snapshot to play the video)
 -	Unity / C#
