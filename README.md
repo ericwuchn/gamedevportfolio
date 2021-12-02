@@ -17,7 +17,7 @@
 - Unity / C#
 - My capstone project at Sheridan College with 6 other team members
 - A multiplayer RTS game that takes place in the Galaxy
-- My work included game design, UI design / programming, and editing of the trailer
+- My work includes game design, UI design / programming, and editing of the trailer
 <br><br><br><br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br><br>
