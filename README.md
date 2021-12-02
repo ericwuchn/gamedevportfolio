@@ -8,7 +8,7 @@
 -	Engineered the game with existing art assets
 - Utilizes players' gestures for controls
 - Combo system
--	Designed & Implemented the UI with fluid animations
+-	Designed & programmed the UI with animations
 - Optimized performance, runs well on low-tier phones
 <br><br><br><br>
 
