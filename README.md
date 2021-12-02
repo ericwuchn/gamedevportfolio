@@ -16,8 +16,8 @@
 **Hoag's End** (Click snapshot to go to the itch.io page)
 - Unity / C#
 - My capstone project at Sheridan College with 6 other team members
-- The game is a multiplayer RTS game that takes place in the Galaxy
-- My work included game design, UI design / implementation, and editing of the trailer
+- A multiplayer RTS game that takes place in the Galaxy
+- My work included game design, UI design / programming, and editing of the trailer
 <br><br><br><br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nqhbQj19tRQ/0.jpg)](https://www.youtube.com/watch?v=nqhbQj19tRQ)<br><br>
@@ -25,7 +25,7 @@
 -	Unity / C#
 -	An arcade racing project
 -	Engineered the game with existing art assets
--	UI design and implementation
+-	UI design and programming
 -	Fine-tuned graphics and fluid gameplay<br><br><br><br>
 
 
@@ -39,7 +39,7 @@
 -	Expandable perk & pickup system
 -	Supply airdrop system
 -	Optimized gameplay and audio system
--	UI design and implementation
+-	UI design and programming
 -	Fine-tuned graphics<br><br><br><br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1LGAKW8iWVs/0.jpg)](https://www.youtube.com/watch?v=1LGAKW8iWVs)<br><br>
@@ -54,7 +54,7 @@
   - Status (Buff & Debuff)
   - UI System
 - Optimized CPU & memory usage
-- UI design and implementation
+- UI design and programming
 - MMO-style message system
 - Customizable damage number system referenced from Maple Story
 <br><br><br><br>
@@ -66,7 +66,7 @@
 - A pixel & cyberpunk short top-down shooter game
 - A school project made by a 6 people team, I am the main programmer and level designer
 - Scripted the gameplay, character abilities, weapon system, and enemy system
-- UI design and implementation<br><br><br><br>
+- UI design and programming<br><br><br><br>
 
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse1.png)
 ![IMAGE ALT TEXT HERE](screenshots/slimeuniverse2.png)<br><br>
